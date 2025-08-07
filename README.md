@@ -10,7 +10,7 @@ satisfaction and ultimately customer churn. To address this, the supply chain an
 tasked with analyzing On-Time (OT), In-Full (IF), and On-Time In-Full (OTIF) service levels for all 
 customer orders on a daily basis against the target service level set for each customer. 
 
-Project Objective:
+Project Objectives:
 
  - Analyze FMCG delivery performance data using SQL and Power BI
  - Evaluate key supply chain metrics: On-Time (OT), In-Full(IF), On-time In-Full (OTIF) and delivery reliability
